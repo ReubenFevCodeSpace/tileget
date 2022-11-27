@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tileget/static/css/main.b45b1a19.css",
+    "main.js": "/tileget/static/js/main.2a73ff63.js",
+    "index.html": "/tileget/index.html",
+    "main.b45b1a19.css.map": "/tileget/static/css/main.b45b1a19.css.map",
+    "main.2a73ff63.js.map": "/tileget/static/js/main.2a73ff63.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b45b1a19.css",
+    "static/js/main.2a73ff63.js"
+  ]
+}
