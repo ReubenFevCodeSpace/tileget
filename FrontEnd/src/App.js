@@ -26,7 +26,7 @@ function App() {
             <NavLink to='/products'>
               <button class='font-semibold bg-zinc-200 text-black border-none text-lg hover:text-gray-400'>Products</button>
             </NavLink>
-            <NavLink to='/product/1'>
+            <NavLink to='/product/0'>
               <button class='font-semibold bg-zinc-200 text-black border-none text-lg hover:text-gray-400'>Product</button>
             </NavLink>
           </div>
